@@ -21,3 +21,4 @@ and baically adding a line on top of the main code which basiically runs that co
 /// @custom:dev-run-script deploy_script.js
 this basically what it looks like deployed
 ![image](https://github.com/user-attachments/assets/020a666b-e2c9-40b1-a9e7-f88c6278cfae)
+https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.26+commit.8a97fa7a.js=>dployment link
