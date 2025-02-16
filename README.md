@@ -19,3 +19,5 @@ contract NFTReceiver is IERC721Receiver {
 }
 and baically adding a line on top of the main code which basiically runs that code first as the ide has problem figureing that out
 /// @custom:dev-run-script deploy_script.js
+this basically what it looks like deployed
+![image](https://github.com/user-attachments/assets/020a666b-e2c9-40b1-a9e7-f88c6278cfae)
